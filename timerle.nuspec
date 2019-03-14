@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>timerle</id>
+    <version>1.0.4</version>
+    <title>timerle (Install)</title>
+    <authors>JFSoftware</authors>
+    <projectUrl>https://www.jfsoftware.de/timerle.htm</projectUrl>
+	<packageSourceUrl></packageSourceUrl>
+	<owners>Froghut</owners>
+    <tags>timerle</tags>
+    <summary>Timerle is a software alarm clock. It attracts attention either at a certain time or after a certain period of time by playing a sound file of your choice. The operation is not as complicated as with many other timers, but even faster than with its model, the real alarm clock.</summary>
+    <description>Timerle is a software alarm clock. It attracts attention either at a certain time or after a certain period of time by playing a sound file of your choice. The operation is not as complicated as with many other timers, but even faster than with its model, the real alarm clock.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
