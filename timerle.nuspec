@@ -6,8 +6,8 @@
     <title>timerle (Install)</title>
     <authors>JFSoftware</authors>
     <projectUrl>https://www.jfsoftware.de/timerle.htm</projectUrl>
-	<packageSourceUrl>https://github.com/Froghut/timeleChoco</packageSourceUrl>
-	<owners>Froghut</owners>
+    <packageSourceUrl>https://github.com/Froghut/timeleChoco</packageSourceUrl>
+    <owners>Froghut</owners>
     <tags>timerle</tags>
     <summary>Timerle is a software alarm clock. It attracts attention either at a certain time or after a certain period of time by playing a sound file of your choice. The operation is not as complicated as with many other timers, but even faster than with its model, the real alarm clock.</summary>
     <description>Timerle is a software alarm clock. It attracts attention either at a certain time or after a certain period of time by playing a sound file of your choice. The operation is not as complicated as with many other timers, but even faster than with its model, the real alarm clock.</description>
